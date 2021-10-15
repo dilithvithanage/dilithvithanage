@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://komarev.com/ghpvc/?username=dilithvithanage)
+<!--![](https://komarev.com/ghpvc/?username=dilithvithanage)-->
 
 <!--
 **dilithvithanage/dilithvithanage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
